@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829090952472",
+    "firebase_url": "https://toashorties.firebaseio.com",
+    "project_id": "toashorties",
+    "storage_bucket": "toashorties.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829090952472:android:c9eac13c17b2794cc8da6d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829090952472-n6d5vs0sffk0t96vo7ihbgcov0km0l45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_tutorial",
+            "certificate_hash": "5cce1590c1e3c761487b88a2e8b5255182f39c36"
+          }
+        },
+        {
+          "client_id": "829090952472-tf93cr469msot56qj8h5qeg6i1i67gal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-hXRXWT0IUSbxgUmQTXS-oEs5GzhLs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829090952472-tf93cr469msot56qj8h5qeg6i1i67gal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
